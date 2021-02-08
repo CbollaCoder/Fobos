@@ -1,0 +1,973 @@
+E:\SisPhobos\ViewModels\bin\Debug\ViewModels.dll
+E:\SisPhobos\ViewModels\bin\Debug\ViewModels.pdb
+E:\SisPhobos\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\SisPhobos\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\SisPhobos\ViewModels\obj\Debug\ViewModels.dll
+E:\SisPhobos\ViewModels\obj\Debug\ViewModels.pdb
+E:\SisPhobos\ViewModels\bin\Debug\ViewModels.dll.config
+E:\SisPhobos\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\SisPhobos\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SisPhobos\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\SisPhobos\ViewModels\bin\Debug\linq2db.dll
+E:\SisPhobos\ViewModels\bin\Debug\MySql.Data.dll
+E:\SisPhobos\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\SisPhobos\ViewModels\bin\Debug\System.Buffers.dll
+E:\SisPhobos\ViewModels\bin\Debug\System.Memory.dll
+E:\SisPhobos\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\SisPhobos\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SisPhobos\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\SisPhobos\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\SisPhobos\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SisPhobos\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\SisPhobos\ViewModels\bin\Debug\linq2db.pdb
+E:\SisPhobos\ViewModels\bin\Debug\linq2db.xml
+E:\SisPhobos\ViewModels\bin\Debug\MySql.Data.xml
+E:\SisPhobos\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\SisPhobos\ViewModels\bin\Debug\System.Buffers.xml
+E:\SisPhobos\ViewModels\bin\Debug\System.Memory.xml
+E:\SisPhobos\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\SisPhobos\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SisPhobos\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\SisPhobos\ViewModels\bin\Debug\Models.dll
+E:\SisPhobos\ViewModels\bin\Debug\Models.pdb
+E:\SisPhobos\ViewModels\bin\Debug\Models.dll.config
+E:\SisPhobos - Copy\ViewModels\bin\Debug\ViewModels.dll.config
+E:\SisPhobos - Copy\ViewModels\bin\Debug\ViewModels.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\ViewModels.pdb
+E:\SisPhobos - Copy\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\linq2db.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Models.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\MySql.Data.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Buffers.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Memory.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Models.pdb
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Models.dll.config
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\linq2db.pdb
+E:\SisPhobos - Copy\ViewModels\bin\Debug\linq2db.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\MySql.Data.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Buffers.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Memory.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\SisPhobos - Copy\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SisPhobos - Copy\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\SisPhobos - Copy\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\SisPhobos - Copy\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\SisPhobos - Copy\ViewModels\obj\Debug\ViewModels.dll
+E:\SisPhobos - Copy\ViewModels\obj\Debug\ViewModels.pdb
+E:\SisPhobos - Copy\ViewModels\bin\Debug\itextsharp.dll
+E:\SisPhobos - Copy\ViewModels\bin\Debug\itextsharp.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\ViewModels.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\ViewModels.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\ViewModels.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\itextsharp.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\linq2db.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Models.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\MySql.Data.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Buffers.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Memory.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Models.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Models.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\itextsharp.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\linq2db.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\linq2db.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\MySql.Data.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Buffers.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Memory.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\obj\Debug\ViewModels.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\ViewModels\obj\Debug\ViewModels.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\ViewModels.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\ViewModels.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\ViewModels.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\itextsharp.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\linq2db.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Models.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\MySql.Data.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Buffers.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Memory.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Models.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Models.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\itextsharp.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\linq2db.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\linq2db.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\MySql.Data.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Buffers.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Memory.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\obj\Debug\ViewModels.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\ViewModels\obj\Debug\ViewModels.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\ViewModels.dll.config
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\ViewModels.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\ViewModels.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\itextsharp.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\linq2db.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Models.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\MySql.Data.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Buffers.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Memory.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Models.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Models.dll.config
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\itextsharp.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\linq2db.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\linq2db.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\MySql.Data.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Buffers.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Memory.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\obj\Debug\ViewModels.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\ViewModels\obj\Debug\ViewModels.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\ViewModels.dll.config
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\ViewModels.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\ViewModels.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\itextsharp.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\linq2db.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Models.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\MySql.Data.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Buffers.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Memory.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Models.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Models.dll.config
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\itextsharp.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\linq2db.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\linq2db.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\MySql.Data.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Buffers.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Memory.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\obj\Debug\ViewModels.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\ViewModels\obj\Debug\ViewModels.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\itextsharp.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\MySql.Data.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Buffers.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Memory.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.dll.config
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\itextsharp.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\MySql.Data.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Buffers.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Memory.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\itextsharp.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\MySql.Data.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Buffers.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Memory.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.dll.config
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\itextsharp.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\MySql.Data.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Buffers.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Memory.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\ViewModels.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\itextsharp.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\MySql.Data.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Buffers.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Memory.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Models.dll.config
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\itextsharp.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\linq2db.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\MySql.Data.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Buffers.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Memory.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\ViewModels\obj\Debug\ViewModels.pdb
+E:\27SisPhobos - V2\ViewModels\bin\Debug\ViewModels.dll.config
+E:\27SisPhobos - V2\ViewModels\bin\Debug\ViewModels.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\ViewModels.pdb
+E:\27SisPhobos - V2\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\itextsharp.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\linq2db.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Models.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\MySql.Data.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Buffers.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Memory.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Models.pdb
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Models.dll.config
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\itextsharp.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\linq2db.pdb
+E:\27SisPhobos - V2\ViewModels\bin\Debug\linq2db.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\MySql.Data.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Buffers.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Memory.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\27SisPhobos - V2\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\27SisPhobos - V2\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\27SisPhobos - V2\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\27SisPhobos - V2\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\27SisPhobos - V2\ViewModels\obj\Debug\ViewModels.dll
+E:\27SisPhobos - V2\ViewModels\obj\Debug\ViewModels.pdb
+E:\28SisPhobos - V3\ViewModels\bin\Debug\ViewModels.dll.config
+E:\28SisPhobos - V3\ViewModels\bin\Debug\ViewModels.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\ViewModels.pdb
+E:\28SisPhobos - V3\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\itextsharp.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\linq2db.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Models.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\MySql.Data.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Buffers.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Memory.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Models.pdb
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Models.dll.config
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\itextsharp.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\linq2db.pdb
+E:\28SisPhobos - V3\ViewModels\bin\Debug\linq2db.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\MySql.Data.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Buffers.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Memory.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\28SisPhobos - V3\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\28SisPhobos - V3\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\28SisPhobos - V3\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\28SisPhobos - V3\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\28SisPhobos - V3\ViewModels\obj\Debug\ViewModels.dll
+E:\28SisPhobos - V3\ViewModels\obj\Debug\ViewModels.pdb
+E:\29SisPhobos - V4\ViewModels\bin\Debug\ViewModels.dll.config
+E:\29SisPhobos - V4\ViewModels\bin\Debug\ViewModels.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\ViewModels.pdb
+E:\29SisPhobos - V4\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\itextsharp.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\linq2db.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Models.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\MySql.Data.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Buffers.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Memory.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Models.pdb
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Models.dll.config
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\itextsharp.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\linq2db.pdb
+E:\29SisPhobos - V4\ViewModels\bin\Debug\linq2db.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\MySql.Data.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Buffers.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Memory.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\29SisPhobos - V4\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\29SisPhobos - V4\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\29SisPhobos - V4\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\29SisPhobos - V4\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\29SisPhobos - V4\ViewModels\obj\Debug\ViewModels.dll
+E:\29SisPhobos - V4\ViewModels\obj\Debug\ViewModels.pdb
+E:\30SisPhobos - V5\ViewModels\bin\Debug\ViewModels.dll.config
+E:\30SisPhobos - V5\ViewModels\bin\Debug\ViewModels.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\ViewModels.pdb
+E:\30SisPhobos - V5\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\itextsharp.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\linq2db.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Models.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\MySql.Data.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Buffers.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Memory.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Models.pdb
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Models.dll.config
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\itextsharp.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\linq2db.pdb
+E:\30SisPhobos - V5\ViewModels\bin\Debug\linq2db.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\MySql.Data.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Buffers.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Memory.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\30SisPhobos - V5\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\30SisPhobos - V5\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\30SisPhobos - V5\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\30SisPhobos - V5\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\30SisPhobos - V5\ViewModels\obj\Debug\ViewModels.dll
+E:\30SisPhobos - V5\ViewModels\obj\Debug\ViewModels.pdb
+E:\31SisPhobos\ViewModels\bin\Debug\ViewModels.dll.config
+E:\31SisPhobos\ViewModels\bin\Debug\ViewModels.dll
+E:\31SisPhobos\ViewModels\bin\Debug\ViewModels.pdb
+E:\31SisPhobos\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\31SisPhobos\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\31SisPhobos\ViewModels\bin\Debug\itextsharp.dll
+E:\31SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\31SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\31SisPhobos\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\31SisPhobos\ViewModels\bin\Debug\linq2db.dll
+E:\31SisPhobos\ViewModels\bin\Debug\Models.dll
+E:\31SisPhobos\ViewModels\bin\Debug\MySql.Data.dll
+E:\31SisPhobos\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\31SisPhobos\ViewModels\bin\Debug\System.Buffers.dll
+E:\31SisPhobos\ViewModels\bin\Debug\System.Memory.dll
+E:\31SisPhobos\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\31SisPhobos\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\31SisPhobos\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\31SisPhobos\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\31SisPhobos\ViewModels\bin\Debug\Models.pdb
+E:\31SisPhobos\ViewModels\bin\Debug\Models.dll.config
+E:\31SisPhobos\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\31SisPhobos\ViewModels\bin\Debug\itextsharp.xml
+E:\31SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\31SisPhobos\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\31SisPhobos\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\31SisPhobos\ViewModels\bin\Debug\linq2db.pdb
+E:\31SisPhobos\ViewModels\bin\Debug\linq2db.xml
+E:\31SisPhobos\ViewModels\bin\Debug\MySql.Data.xml
+E:\31SisPhobos\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\31SisPhobos\ViewModels\bin\Debug\System.Buffers.xml
+E:\31SisPhobos\ViewModels\bin\Debug\System.Memory.xml
+E:\31SisPhobos\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\31SisPhobos\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\31SisPhobos\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\31SisPhobos\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\31SisPhobos\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\31SisPhobos\ViewModels\obj\Debug\ViewModels.dll
+E:\31SisPhobos\ViewModels\obj\Debug\ViewModels.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\ViewModels.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\ViewModels.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\itextsharp.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\linq2db.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Models.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\MySql.Data.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Buffers.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Memory.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Models.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Models.dll.config
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\itextsharp.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\linq2db.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\linq2db.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\MySql.Data.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Buffers.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Memory.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\obj\Debug\ViewModels.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\ViewModels\obj\Debug\ViewModels.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll.config
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll.config
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll.config
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll.config
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll.config
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll.config
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\ViewModels.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Models.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\itextsharp.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\linq2db.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\MySql.Data.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Buffers.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Memory.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\ViewModels.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\ViewModels.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\ViewModels.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\itextsharp.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\linq2db.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Models.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\MySql.Data.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Buffers.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Memory.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Models.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Models.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\itextsharp.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\linq2db.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\linq2db.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\MySql.Data.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Buffers.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Memory.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\obj\Debug\ViewModels.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\ViewModels\obj\Debug\ViewModels.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\ViewModels.dll.config
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\ViewModels.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\ViewModels.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\itextsharp.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\linq2db.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Models.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\MySql.Data.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Buffers.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Memory.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Models.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Models.dll.config
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\itextsharp.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\linq2db.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\linq2db.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\MySql.Data.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Buffers.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Memory.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\obj\Debug\ViewModels.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\ViewModels\obj\Debug\ViewModels.pdb
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\ViewModels.dll.config
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\ViewModels.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\ViewModels.pdb
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\BouncyCastle.Crypto.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Google.Protobuf.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\itextsharp.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\K4os.Compression.LZ4.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\K4os.Hash.xxHash.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\linq2db.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Models.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\MySql.Data.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Renci.SshNet.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Buffers.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Memory.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Numerics.Vectors.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Ubiety.Dns.Core.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Zstandard.Net.dll
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Models.pdb
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Models.dll.config
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Google.Protobuf.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\itextsharp.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\K4os.Compression.LZ4.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\K4os.Hash.xxHash.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\linq2db.pdb
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\linq2db.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\MySql.Data.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\Renci.SshNet.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Buffers.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Memory.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Numerics.Vectors.xml
+E:\48SisPhobos - MOD\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\48SisPhobos - MOD\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\48SisPhobos - MOD\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\48SisPhobos - MOD\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\48SisPhobos - MOD\ViewModels\obj\Debug\ViewModels.dll
+E:\48SisPhobos - MOD\ViewModels\obj\Debug\ViewModels.pdb

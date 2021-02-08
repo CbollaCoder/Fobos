@@ -1,0 +1,1595 @@
+E:\SisPhobos\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\SisPhobos\SisPhobos\bin\Debug\SisPhobos.exe
+E:\SisPhobos\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.exe
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\SisPhobos\SisPhobos\bin\Debug\ViewModels.dll
+E:\SisPhobos\SisPhobos\bin\Debug\ViewModels.pdb
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\SisPhobos\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\SisPhobos\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SisPhobos\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\SisPhobos\SisPhobos\bin\Debug\linq2db.dll
+E:\SisPhobos\SisPhobos\bin\Debug\MySql.Data.dll
+E:\SisPhobos\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\SisPhobos\SisPhobos\bin\Debug\System.Buffers.dll
+E:\SisPhobos\SisPhobos\bin\Debug\System.Memory.dll
+E:\SisPhobos\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\SisPhobos\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SisPhobos\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\SisPhobos\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\SisPhobos\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\SisPhobos\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SisPhobos\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\SisPhobos\SisPhobos\bin\Debug\linq2db.pdb
+E:\SisPhobos\SisPhobos\bin\Debug\linq2db.xml
+E:\SisPhobos\SisPhobos\bin\Debug\MySql.Data.xml
+E:\SisPhobos\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\SisPhobos\SisPhobos\bin\Debug\System.Buffers.xml
+E:\SisPhobos\SisPhobos\bin\Debug\System.Memory.xml
+E:\SisPhobos\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\SisPhobos\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SisPhobos\SisPhobos\bin\Debug\Models.dll
+E:\SisPhobos\SisPhobos\bin\Debug\Models.pdb
+E:\SisPhobos\SisPhobos\bin\Debug\Models.dll.config
+E:\SisPhobos\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\SisPhobos.exe
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\linq2db.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Models.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\MySql.Data.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Buffers.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Memory.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\ViewModels.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Models.pdb
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Models.dll.config
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\ViewModels.pdb
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\linq2db.pdb
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\linq2db.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\MySql.Data.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Buffers.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Memory.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.exe
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\itextsharp.dll
+E:\SisPhobos - Copy\SisPhobos\bin\Debug\itextsharp.xml
+E:\SisPhobos - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\SisPhobos.exe
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\itextsharp.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\linq2db.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Models.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\MySql.Data.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Buffers.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Memory.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\ViewModels.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Models.pdb
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Models.dll.config
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\ViewModels.pdb
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\itextsharp.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\linq2db.pdb
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\linq2db.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\MySql.Data.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Buffers.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Memory.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.exe
+E:\SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES - Copy\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\SisPhobos.exe
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\itextsharp.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\linq2db.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Models.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\MySql.Data.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Buffers.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Memory.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\ViewModels.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Models.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Models.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\ViewModels.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\itextsharp.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\linq2db.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\linq2db.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\MySql.Data.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Buffers.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Memory.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.exe
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\SisPhobos.exe
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\itextsharp.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\linq2db.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Models.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\MySql.Data.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Buffers.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Memory.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\ViewModels.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Models.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Models.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\ViewModels.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\itextsharp.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\linq2db.pdb
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\linq2db.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\MySql.Data.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Buffers.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Memory.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.exe
+E:\12SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS - Copy\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\SisPhobos.exe
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\itextsharp.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\linq2db.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Models.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\MySql.Data.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Buffers.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Memory.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\ViewModels.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Models.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Models.dll.config
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\ViewModels.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\itextsharp.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\linq2db.pdb
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\linq2db.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\MySql.Data.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Buffers.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Memory.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.exe
+E:\13SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE - Copy\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\SisPhobos.exe
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\itextsharp.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\linq2db.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Models.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\MySql.Data.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Buffers.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Memory.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\ViewModels.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Models.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Models.dll.config
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\ViewModels.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\itextsharp.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\linq2db.pdb
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\linq2db.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\MySql.Data.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Buffers.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Memory.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.exe
+E:\14SisPhobos - PACIENTES LOGIN USUARIOS DATOSF REPORTES ESCENARIOS DELETE\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\SisPhobos.exe
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\itextsharp.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\linq2db.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Models.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\MySql.Data.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Buffers.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Memory.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\ViewModels.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Models.pdb
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Models.dll.config
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\ViewModels.pdb
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\itextsharp.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\linq2db.pdb
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\linq2db.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\MySql.Data.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Buffers.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Memory.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.exe
+E:\15SisPhobos - último backup MP100%\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\SisPhobos.exe
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\itextsharp.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\linq2db.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Models.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\MySql.Data.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Buffers.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Memory.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\ViewModels.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Models.pdb
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Models.dll.config
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\ViewModels.pdb
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\itextsharp.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\linq2db.pdb
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\linq2db.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\MySql.Data.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Buffers.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Memory.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.exe
+E:\16SisPhobos - Nuevas interfaces\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\SisPhobos.exe
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\itextsharp.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\linq2db.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Models.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\MySql.Data.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Buffers.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Memory.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\ViewModels.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Models.pdb
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Models.dll.config
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\ViewModels.pdb
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\itextsharp.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\linq2db.pdb
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\linq2db.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\MySql.Data.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Buffers.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Memory.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.exe
+E:\17SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\linq2db.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Models.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Models.pdb
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Models.dll.config
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\linq2db.pdb
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\linq2db.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\18SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.exe
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\SisPhobos.exe
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\itextsharp.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\linq2db.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Models.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\MySql.Data.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Buffers.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Memory.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\ViewModels.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Models.pdb
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Models.dll.config
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\ViewModels.pdb
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\itextsharp.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\linq2db.pdb
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\linq2db.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\MySql.Data.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Buffers.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Memory.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\19SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2)\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\SisPhobos.exe
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\itextsharp.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\linq2db.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Models.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\MySql.Data.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Buffers.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Memory.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\ViewModels.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Models.pdb
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Models.dll.config
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\ViewModels.pdb
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\itextsharp.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\linq2db.pdb
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\linq2db.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\MySql.Data.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Buffers.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Memory.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.exe
+E:\20SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.pdb
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll.config
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.pdb
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\21SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll.config
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.pdb
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\22SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll.config
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.pdb
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\23SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\SisPhobos.exe
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\itextsharp.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\linq2db.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Models.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\MySql.Data.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Buffers.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Memory.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\ViewModels.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Models.pdb
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Models.dll.config
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\ViewModels.pdb
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\itextsharp.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\linq2db.pdb
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\linq2db.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\MySql.Data.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Buffers.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Memory.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.exe
+E:\24SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO - Copy\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Models.dll.config
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\itextsharp.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.pdb
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\linq2db.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Memory.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\25SisPhobos - Nuevas interfaces - PACIENTES - USUARIOS - TRATAMIENTO (2) - 2 BOTONES - CONTROLES OCULTOS TRATAMIENTO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\SisPhobos.exe
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\itextsharp.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\linq2db.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Models.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\MySql.Data.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Buffers.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Memory.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\ViewModels.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Models.pdb
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Models.dll.config
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\ViewModels.pdb
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\itextsharp.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\linq2db.pdb
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\linq2db.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\MySql.Data.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Buffers.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Memory.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\27SisPhobos - V2\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.exe
+E:\27SisPhobos - V2\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\SisPhobos.exe
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\itextsharp.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\linq2db.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Models.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\MySql.Data.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Buffers.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Memory.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\ViewModels.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Models.pdb
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Models.dll.config
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\ViewModels.pdb
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\itextsharp.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\linq2db.pdb
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\linq2db.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\MySql.Data.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Buffers.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Memory.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\28SisPhobos - V3\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.exe
+E:\28SisPhobos - V3\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\SisPhobos.exe
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\itextsharp.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\linq2db.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Models.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\MySql.Data.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Buffers.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Memory.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\ViewModels.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Models.pdb
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Models.dll.config
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\ViewModels.pdb
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\itextsharp.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\linq2db.pdb
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\linq2db.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\MySql.Data.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Buffers.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Memory.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\29SisPhobos - V4\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.exe
+E:\29SisPhobos - V4\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\SisPhobos.exe
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\itextsharp.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\linq2db.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Models.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\MySql.Data.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Buffers.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Memory.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\ViewModels.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Models.pdb
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Models.dll.config
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\ViewModels.pdb
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\itextsharp.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\linq2db.pdb
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\linq2db.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\MySql.Data.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Buffers.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Memory.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\30SisPhobos - V5\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.exe
+E:\30SisPhobos - V5\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\31SisPhobos\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\31SisPhobos\SisPhobos\bin\Debug\SisPhobos.exe
+E:\31SisPhobos\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\31SisPhobos\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\itextsharp.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\linq2db.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\Models.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\MySql.Data.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Buffers.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Memory.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\ViewModels.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\31SisPhobos\SisPhobos\bin\Debug\Models.pdb
+E:\31SisPhobos\SisPhobos\bin\Debug\Models.dll.config
+E:\31SisPhobos\SisPhobos\bin\Debug\ViewModels.pdb
+E:\31SisPhobos\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\31SisPhobos\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\itextsharp.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\linq2db.pdb
+E:\31SisPhobos\SisPhobos\bin\Debug\linq2db.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\MySql.Data.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Buffers.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Memory.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\31SisPhobos\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.exe
+E:\31SisPhobos\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\itextsharp.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\linq2db.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Models.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Memory.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\ViewModels.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Models.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Models.dll.config
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\itextsharp.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\linq2db.pdb
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\linq2db.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Memory.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\34SisPhobos - Version con COMBOBOXES INCOMPLETO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll.config
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.pdb
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\35SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll.config
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.pdb
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\36SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll.config
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.pdb
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\37SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll.config
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.pdb
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\38SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll.config
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.pdb
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\39SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll.config
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.pdb
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\40SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.exe
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Models.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\itextsharp.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\linq2db.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\MySql.Data.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Buffers.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Memory.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.exe
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\SisPhobos.exe
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\itextsharp.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\linq2db.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Models.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\MySql.Data.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Buffers.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Memory.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\ViewModels.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Models.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Models.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\ViewModels.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\itextsharp.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\linq2db.pdb
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\linq2db.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\MySql.Data.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Buffers.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Memory.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.exe
+E:\41SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\SisPhobos.exe
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\itextsharp.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\linq2db.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Models.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\MySql.Data.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Buffers.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Memory.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\ViewModels.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Models.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Models.dll.config
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\ViewModels.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\itextsharp.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\linq2db.pdb
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\linq2db.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\MySql.Data.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Buffers.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Memory.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.exe
+E:\44SisPhobos - Version con COMBOBOXES HORA GRAFICO - DEF1 - DEMOSTRACION - DEMO SIN TABS\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.csprojAssemblyReference.cache
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.csproj.ResolveComReference.cache
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.Form1.resources
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.Login.resources
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.Properties.Resources.resources
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.csproj.GenerateResource.cache
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.csproj.CoreCompileInputs.cache
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.exe
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.pdb
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\SisPhobos.exe.config
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\SisPhobos.exe
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\SisPhobos.pdb
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\BouncyCastle.Crypto.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Google.Protobuf.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\itextsharp.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\K4os.Compression.LZ4.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\K4os.Hash.xxHash.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\linq2db.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Models.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\MySql.Data.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Renci.SshNet.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Buffers.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Memory.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Numerics.Vectors.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Ubiety.Dns.Core.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\ViewModels.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Zstandard.Net.dll
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Models.pdb
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Models.dll.config
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\ViewModels.pdb
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\ViewModels.dll.config
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Google.Protobuf.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\itextsharp.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\K4os.Compression.LZ4.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\K4os.Hash.xxHash.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\linq2db.pdb
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\linq2db.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\MySql.Data.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\Renci.SshNet.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Buffers.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Memory.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Numerics.Vectors.xml
+E:\48SisPhobos - MOD\SisPhobos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\48SisPhobos - MOD\SisPhobos\obj\Debug\SisPhobos.csproj.CopyComplete
